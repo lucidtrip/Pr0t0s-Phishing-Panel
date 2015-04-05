@@ -28,29 +28,29 @@ Das Panel selber hat KEINE Elemente mehr vom Toolstore Panel die nicht mehr als 
 
 ## Tutorial
 
-!0. Die Config.php&MySQL.php einstellen!
+1. Die Config.php&MySQL.php einstellen!
 Öffnen und lesen Sie die Datei : "inc/config.php" und tragen Sie dort alle Infos ein.
 Sie können dort auch die E-Mail Optionen einstellen.
 Danach öffnen Sie die Datei : "connect/mysql.php" und tragen Sie dort alle MYSQL Daten ein.
 
 
-1. Das erstellen und Benutzen eines Hosts.
+2. Das erstellen und Benutzen eines Hosts.
 Zum erstellen eines Hosts unter dem Tab "Hosts" geben Sie in das erste Feld ein Icon Pfad an.
 Diese Bilder sind hochzuladen unter /img/Pictures/. Wenn Sie in den Ordner zb Amazon.ico hochgeladen haben,
 tragen Sie in das erste Feld : "Amazon.ico" (Mit groß&klein) ein. In das Zweite Feld kommt dann Ihr Persöhnliches Kommentar zum Host zb "Amazon Phishing Site".
 
-2. Das einstellen der GET&POST Parameter.
+3. Das einstellen der GET&POST Parameter.
 Zum einstellen der Parameter unter "Settings" wählen Sie Ihren gewünschten Host aus, danach tragen Sie den Namen des Parameters ein z.B. "User" danach den Parameternamen
 des nächsten Operaten z.B. "Passwort" und als letzes die Website auf die das Opfer weitergeleited werden soll zb "http://www.google.de/" ("http://" & "www." werden benötigt).
 Dann bestätigen Sie ihre Angaben und Ihre Phishing Website ist eingetragen.
 
-3. Nutzung
+4. Nutzung
 Sie erstellen eine Phishing Website und tragen als Ziel für die Daten folgende Datei an : "http://www.IHREDOMAIN.de/gate.php?HostID=" Dann die Host ID von ihrers zuvor erstellen
 Hosts unter "Hosts" im Panel z.B. "1". Der fertige Link sieht dann so aus : "http://www.IHREDOMAIN.de/gate.php?HostID=1". Dass ist alles, natürlich müssen die übergebenen Parameter
 mit den angegebenen Parametern übereinstimmen.
 
-4. Service
-Falls Sie sachliche und begründete Fragen haben können Sie den Nutzer "Pr0t0s" im Forum "Hackbase.cc" diese Fragen zukommen lassen.
+5. Service
+Falls Sie sachliche und begründete Fragen haben können Sie den Nutzer "Pr0t0s" im Forum "~~Hackbase.cc~~" diese Fragen zukommen lassen.
 
 
 ## Screenshots
@@ -99,7 +99,5 @@ gehabt verwendet werden.
 
 ## Credits
 1. Pr0t0s @ ~~Hackbase.cc~~ (Coding,GFX und alles andere)
-~~Hackbase.cc~~
 
-2. mod: LucidTrip
-date: 05.04.2015
+2. LucidTrip @ date: 05.04.2015
