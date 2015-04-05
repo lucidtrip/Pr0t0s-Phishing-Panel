@@ -101,3 +101,6 @@ gehabt verwendet werden.
 1. Pr0t0s @ ~~Hackbase.cc~~ (Coding,GFX und alles andere)
 
 2. LucidTrip @ 05.04.2015 (kleine Mods und Fixxes)
+
+## Spenden
+- Bitcoin: 1H7YZLC1TzeA6qQVFHLtMMmDx8GsxLucid
