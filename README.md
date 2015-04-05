@@ -100,4 +100,4 @@ gehabt verwendet werden.
 ## Credits
 1. Pr0t0s @ ~~Hackbase.cc~~ (Coding,GFX und alles andere)
 
-2. LucidTrip @ date: 05.04.2015
+2. LucidTrip @ 05.04.2015 (kleine Mods und Fixxes)
