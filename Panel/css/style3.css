@@ -1,0 +1,154 @@
+body{
+	font-size: 0.7em;
+	font-family: Verdana, Arial;
+	background-color: #EEEEEE;
+	
+	/* Nach oben */
+	/* margin-top: -0.5em; */
+}
+
+#header{
+	background-image: url('../img/header/logo.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 10em;
+}
+
+#wrapper{
+	border: 1px solid silver;
+	background-color: white;
+	width: 80em;
+	margin: auto;
+}
+
+#content{
+	padding: 1em;
+	padding-top: 4em;
+}
+
+#footer{
+	border-top: 1px solid silver;
+	padding: 0.5em;
+	text-align: center;
+	font-family: Verdana;
+}
+
+#wrapper, #infobox, #header{
+	-moz-border-radius: 0.7em;
+	-khtml-border-radius: 0.7em;
+	-webkit-border-radius: 0.7em;
+	border-radius: 0.7em;
+}
+
+ul.topnav {
+	list-style: none;
+	padding:0 0.5em;
+	width:65.7em;	
+	margin: 0;
+	float: left;
+	background: #222;
+	font-size: 1.2em;
+	background: url(../img/navi/style3/bg.gif) repeat-x;
+}
+
+ul.topnav li a{
+	padding: 10px 5px;
+	color: #fff;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+
+ul.topnav li a:hover{
+	background: url(../img/navi/style3/hover.gif) no-repeat center top;
+}
+
+#infobox{
+	border: 1px solid #CCCCCC;
+	padding: 1em;
+}
+
+#off,#on{
+	color: white;
+	text-align: center;
+	width: 3.7em;
+	border: none;
+}
+
+#off{
+	background-color: red;
+}
+
+#on{
+	background-color: lime;
+}
+
+#kleiner{
+	width: 1em;
+	text-align: center;
+}
+
+#groesser{
+	width: 12.5em;
+}
+
+label {
+	display: inline-block;
+	width: 9em;
+}
+
+a{
+	text-decoration: none;
+}
+
+hr{
+	background-color: #7A7C7D;
+	border: none;
+}
+
+img{
+	border: none;
+	cursor: pointer;
+}
+
+h2{
+	color: #00B4E0;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+.table, .td{
+	background-color: #EEEEEE;
+	text-align: left;
+	width: 16em;
+	padding: 0.3em;
+}
+
+.table{
+	border: 0.1em solid silver;
+}
+
+.td{
+	border-bottom: 0.1em solid silver;
+	background-color: white;
+	font-weight: normal;
+}
+
+.tb{
+	border: 1px solid silver;
+	width: 20em;
+}
+
+.tb:hover, .tb:focus{
+	background-color: #EEEEEE;
+}
+
+.button{
+	border: 1px solid silver;
+	background-color: #EEEEEE;
+	cursor: pointer;
+	color: black;
+}
+
+.button:hover, .button:focus{
+	color: #00B4E0;
+}
