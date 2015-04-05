@@ -1,26 +1,5 @@
+# ![Pr0t0s Phishing Panel v 1.0](http://www0.xup.in/exec/ximg.php?fid=12947185)
 
-# Pr0t0s Phishing Panel v 1.1 - BoPmoD
-
-## Info
-Kleine Änderungen die vorgenommen wurden.
-
-- Die gate.php wurde um den $_GET["ip"] erweitert damit der user nicht unbedingt auf das Panel weiter geleitet werden muss, so kann das Phising skript
-einfach die nötigen Parameter übermitteln und selbst sich drum kümmern wohin der Vic weitergeleitet werden soll. Ist aber optional, also es kann auch wie
-gehabt verwendet werden.
-- ein Backup Skript was die Datenbank via crontab immer mal auf uploaded.to hochläd, um für den fall eine Bust/Own/Hack noch die Datenbank zu haben.
-- hier und da wurden paar Bilder falsch angezeigt, wurde gefixxt.
-- das hinzufügen von Hosts hat auch nicht functioniert, wurde gefixxt.
-- die host.php musste auch aufgeräumt werden, glaub das hätte so wenn überhaupt nur im IE funktioniert.
-- das wars auch erst mal, weitere Ideen folgen.
-
-## Credits
-mod: LucidTrip
-date: 05.04.2015
-
-----------------------------------------------------------------------------------------------
-# Pr0t0s Phishing Panel v 1.0
-
-![Pr0t0s Phishing Panel v 1.0](http://www0.xup.in/exec/ximg.php?fid=12947185)
 
 ## Info
 
@@ -77,33 +56,50 @@ Falls Sie sachliche und begründete Fragen haben können Sie den Nutzer "Pr0t0s" i
 ## Screenshots
 
 Index
-http://www0.xup.in/exec/ximg.php?fid=16297381
+![index](http://www0.xup.in/exec/ximg.php?fid=16297381)
 
 Stats
-http://www0.xup.in/exec/ximg.php?fid=18567161
+![Stats](http://www0.xup.in/exec/ximg.php?fid=18567161)
 
 Logs
-http://www0.xup.in/exec/ximg.php?fid=18191059
+![Logs](http://www0.xup.in/exec/ximg.php?fid=18191059)
 
 Hosts
-http://www0.xup.in/exec/ximg.php?fid=17300056
+![Hosts](http://www0.xup.in/exec/ximg.php?fid=17300056)
 
 Settings
-http://www0.xup.in/exec/ximg.php?fid=65429879
+![Settings](http://www0.xup.in/exec/ximg.php?fid=65429879)
 
 Export
-http://www0.xup.in/exec/ximg.php?fid=10990488
+![Export](http://www0.xup.in/exec/ximg.php?fid=10990488)
 
 Credits
-http://www0.xup.in/exec/ximg.php?fid=17482988
+![Credits](http://www0.xup.in/exec/ximg.php?fid=17482988)
 
-Thread @ Hackbase.cc
-https://hackbase.cc/showthread.php?38870-Script-Pr0t0s-Phishing-Panel&p=216634
+~~Thread @ Hackbase.cc~~
+~~https://hackbase.cc/showthread.php?38870-Script-Pr0t0s-Phishing-Panel&p=216634~~
 
 
 ## Zukunft
 Geplant sind keine neuen Features aber ich bin offen für Ideen.
 
+## Änderungen von LucidTrip
+
+Folgende Änderungen die vorgenommen wurden:
+
+- Die gate.php wurde um den $_GET["ip"] erweitert damit der user nicht unbedingt auf das Panel weiter geleitet werden muss, so kann das Phising skript
+einfach die nötigen Parameter übermitteln und selbst sich drum kümmern wohin der Vic weitergeleitet werden soll. Ist aber optional, also es kann auch wie
+gehabt verwendet werden.
+- ein Backup Skript was die Datenbank via crontab immer mal auf uploaded.to hochläd, um für den fall eine Bust/Own/Hack noch die Datenbank zu haben.
+- hier und da wurden paar Bilder falsch angezeigt, wurde gefixxt.
+- das hinzufügen von Hosts hat auch nicht functioniert, wurde gefixxt.
+- die host.php musste auch aufgeräumt werden, glaub das hätte so wenn überhaupt nur im IE funktioniert.
+- das wars auch erst mal, weitere Ideen folgen.
+
+
 ## Credits
-Pr0t0s @ Hackbase.cc (Coding,GFX und alles andere)
-Hackbase.cc
+1. Pr0t0s @ ~~Hackbase.cc~~ (Coding,GFX und alles andere)
+~~Hackbase.cc~~
+
+2. mod: LucidTrip
+date: 05.04.2015
