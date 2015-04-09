@@ -6,7 +6,7 @@
 // MYSqlDBName = MySql Database Name
 // #########################
 $MYSqlU = "root";
-$MYSqlP = "larry777";
+$MYSqlP = "test123";
 $MYSqlH = "localhost";
 $MYSqlUDBName = "protos";
 mysql_connect($MYSqlH, $MYSqlU, $MYSqlP) or die("");
