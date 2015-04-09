@@ -6,7 +6,7 @@ $pagecount = 50;
 
 //Panel Login
 $username_ = 'bop';
-$password_ = 'crime123';
+$password_ = 'password';
 //
 
 // Security
